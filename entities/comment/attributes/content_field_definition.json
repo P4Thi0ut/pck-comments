@@ -1,0 +1,33 @@
+{
+	"attribute_code" : "content",
+	"database" : {
+		"data_type" : "varchar"
+	},
+	"display" : {
+		"form_type" : "input-textarea",
+		"data_format" : null,
+		"list_layout_order" : null,
+		"field_order" : null
+	},
+	"options" : {
+		"public_field" : true,
+		"reference_to" : null,
+		"grant_capability_on_reference":null
+	},
+	"validation" : {
+		"default" : null,
+		"readonly" : false,
+		"min" : null,
+		"max" : null,
+		"select_values" : null,
+		"multiselect" : false
+	},
+	"translate" : {
+		"fr" : {
+			"content" : "content|contents"
+		},
+		"en" : {
+			"content" : "content|contents"
+		}
+	}
+}

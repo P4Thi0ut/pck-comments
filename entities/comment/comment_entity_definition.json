@@ -1,0 +1,22 @@
+{
+	"entity_code" : "comment",
+	"icon" : "comment",
+	"indexable" : true,
+	"can_stand_alone" : true,
+	"search_fields" : [],
+	"actions" : {
+		"share_sight" : "sight",
+		"share_read" : "read",
+		"share_delete" : "delete",
+		"share_update" : "update",
+		"share_manage" : "manage"
+	},
+	"translate" : {
+		"fr" : {
+			"comment" : "comment|comments"
+		},
+		"en" : {
+			"comment" : "comment|comments"
+		}
+	}
+}
